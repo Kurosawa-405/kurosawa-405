@@ -1,19 +1,10 @@
-
-💫 About Me:
-🔭 Currently Building
-Reproducible AI workflows using LangChain and Gemini in Colab — with modular pipelines, clean dependency management, and scalable design.
-🧑‍🤝‍🧑 Open to Collaborate On
-Open-source contributions to TensorFlow and Matplotlib, especially around explainability, visualization, and developer experience.
-🤝 Seeking Help With
-Optimizing document processing pipelines and improving vector store integration for large-scale semantic search.
-🌱 Actively Learning
-Advanced debugging strategies, secure API key management, and deployment techniques using GCP and Streamlit.
-💬 Ask Me About
-Python, C++, reproducible Colab setups, backend architecture, and deploying AI tools with explainability.
-⚡ Fun Fact
-I turn minor workflow bottlenecks into automation hacks — and I love refining GitHub READMEs for recruiter-readiness.
-
-
+#💫 About Me
+- 🔭 Currently Building: Reproducible AI workflows with LangChain and Gemini in Colab — modular pipelines, clean dependency management, and scalable design.
+- 🧑‍🤝‍🧑 Open to Collaborate On: Open‑source contributions to TensorFlow and Matplotlib, focusing on explainability, visualization, and developer experience.
+- 🤝 Seeking Help With: Optimizing document processing pipelines and enhancing vector store integration for large‑scale semantic search.
+- 🌱 Actively Learning: Advanced debugging strategies, secure API key management, and deployment techniques using GCP and Streamlit.
+- 💬 Ask Me About: Python, C++, reproducible Colab setups, backend architecture, and deploying AI tools with explainability.
+- ⚡ Fun Fact: I turn workflow bottlenecks into automation hacks — and enjoy polishing GitHub READMEs for recruiter‑readiness.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
