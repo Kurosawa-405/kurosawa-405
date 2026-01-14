@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh Grover (he/him)
 
-<!--
-**Kurosawa-405/kurosawa-405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning @ GGSIPU  
+🧠 AWS x Udacity AI Engineer Nanodegree Graduate  
+🛠️ Backend & AI Tools: Python | C++ | FastAPI | Streamlit | AWS | Gemini
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+I create explainable, deployable AI tools with real-world impact. From fintech dashboards to ML-powered legal insights, I focus on clarity, modularity, and performance.
+
+- 🔍 **[fintech-legal-dashboard](https://github.com/Kurosawa-405/fintech-legal-dashboard)**  
+  Streamlit app that analyzes UPI QR codes and fintech news using Gemini. Upload QR codes to extract transaction metadata and receive AI-powered legal insights.
+
+
+- ☁️ **AWS-final**  
+  Final submission showcasing cloud deployment, backend integration, and project polish.
+
+---
+
+## 📈 GitHub Stats
+- 💻 100% commit-driven contributions
+- 🧩 Modular backend architecture
+- 🧪 Iterative debugging and optimization
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vansh-grover-b69518323) | [Instagram](https://www.instagram.com/vanshgrover47)
+
+---
+
+## 📬 Reach Me
+📍 Delhi, India  
+📧 vanshgrover3004@gmail.com  
+🕒 UTC +05:30
+
+---
+
+> “Code is only useful when it’s explainable, reproducible, and impactful.”
