@@ -18,9 +18,6 @@
 ![TensorFlow Explainability Toolkit](https://img.shields.io/badge/TensorFlow--Explainability--Toolkit-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 **Why:** Designed to provide visualization and debugging utilities, making TensorFlow models more transparent and interpretable.
 
-![Matplotlib Extensions](https://img.shields.io/badge/Matplotlib--Extensions-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)  
-**Why:** Created to push Matplotlib beyond defaults, offering reusable templates and publication-ready scientific plots.
-
 ![PDF-to-VectorStore Pipeline](https://img.shields.io/badge/PDF--to--VectorStore-%23150458.svg?style=for-the-badge&logo=readthedocs&logoColor=white)  
 **Why:** Automates document ingestion and semantic search, turning static PDFs into searchable knowledge bases.
 
