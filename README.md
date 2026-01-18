@@ -1,6 +1,6 @@
 #💫 About Me
 - 🔭 Currently Building: Reproducible AI workflows with LangChain and Gemini in Colab — modular pipelines, clean dependency management, and scalable design.
-- 🧑‍🤝‍🧑 Open to Collaborate On: Open‑source contributions to TensorFlow and Matplotlib, focusing on explainability, visualization, and developer experience.
+- 🧑‍🤝‍🧑 Open to Collaborate On:Open-source contributions (and starter issues) in TensorFlow & Matplotlib, focusing on explainability, visualization, and developer experience.
 - 🤝 Seeking Help With: Optimizing document processing pipelines and enhancing vector store integration for large‑scale semantic search.
 - 🌱 Actively Learning: Advanced debugging strategies, secure API key management, and deployment techniques using GCP and Streamlit.
 - 💬 Ask Me About: Python, C++, reproducible Colab setups, backend architecture, and deploying AI tools with explainability.
