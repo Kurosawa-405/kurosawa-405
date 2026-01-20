@@ -12,6 +12,8 @@
 
 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=kurosawa-405&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="kurosawa-405's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurosawa-405&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="kurosawa-405's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=kurosawa-405&theme=merko&hide_border=true" alt="kurosawa-405's GitHub Stats" />
 
 
 
