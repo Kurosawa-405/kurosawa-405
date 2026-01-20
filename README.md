@@ -12,9 +12,9 @@
 
 Github stats
 
-![Kurosawa-405's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurosawa-405&show_icons=true&theme=radical)
+![Kurosawa-405's GitHub Stats](https://github-readme-stats-kurosawa-405.vercel.app/api?username=kurosawa-405&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurosawa-405&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-kurosawa-405.vercel.app/api/top-langs/?username=kurosawa-405&layout=compact&theme=radical)
 
 
 # 📂 Projects & Purpose:
