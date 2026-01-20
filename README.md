@@ -12,7 +12,7 @@
 
 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=kurosawa-405&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="kurosawa-405's GitHub Stats" />
-![Top Languages](https://github-readme-stats-yourproject.vercel.app/api/top-langs/?username=kurosawa-405&layout=compact&theme=radical&hide=jupyter%20notebook)
+
 
 
 # 📂 Projects & Purpose:
