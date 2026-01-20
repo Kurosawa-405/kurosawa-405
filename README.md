@@ -11,9 +11,7 @@
 
 
 Github stats
-
-![Kurosawa-405's GitHub Stats](https://github-readme-stats-kurosawa-405.vercel.app/api?username=kurosawa-405&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=kurosawa-405&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="kurosawa-405's GitHub Stats" />
 ![Top Languages](https://github-readme-stats-kurosawa-405.vercel.app/api/top-langs/?username=kurosawa-405&layout=compact&theme=radical)
 
 
